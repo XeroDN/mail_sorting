@@ -28,3 +28,7 @@ A simple AI-powered email classification agent built using **LangGraph**, **Lang
    ```bash
    git clone https://github.com/XeroDN/mail_sorting.git
    cd mail_sorting
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
